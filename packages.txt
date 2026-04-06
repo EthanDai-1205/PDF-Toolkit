@@ -1,5 +1,6 @@
 ghostscript
-libgl1-mesa-glx
+libgl1
 libxcb1
 libxrender1
 libxext6
+libsm6
